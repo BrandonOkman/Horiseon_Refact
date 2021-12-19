@@ -10,6 +10,8 @@ Horiseon's Code has been given to me for the task of refactoring.
 There were many repetitive codes in the .css that can be merged together to make a easier and more organized work.The .html also must be edited to match along with the chamges made to the .css code
 * https://github.com/BrandonOkman/Horiseon_Refact
 ## Screenshots and Video
+<img width="400" alt="Screen Shot 2021-12-18 at 6 06 04 PM" src="https://user-images.githubusercontent.com/87589924/146660573-a2beef88-366e-42e5-aea6-f73ef716f1e5.png">
+<img width="250" alt="Screen Shot 2021-12-18 at 6 11 35 PM" src="https://user-images.githubusercontent.com/87589924/146660579-c5631b01-40d3-4b50-800e-2cfa4fb7ae6d.png">
 
 ## Web Developer's Contact
 Brandon Okman
